@@ -9,7 +9,7 @@ import com.opensymphony.xwork2.ActionSupport;
 public class AddtoCartAction extends ActionSupport {
 	private int id;
 	private int number;
-	
+	//
 	public int getId() {
 		return id;
 	}
